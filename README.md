@@ -1,4 +1,4 @@
-Hi 👋 My name is Efosa I. Joshua
+Hi 👋 I'm Efosa I. Joshua
 ================================
 
 Software Engineer
