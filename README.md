@@ -8,7 +8,7 @@ Software engineer @100Devs, where I work collaboratively on projects. With exper
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [efosaij@gmail.com](mailto:efosaij@gmail.com)
-* 🧠  I'm learning Web Development
+* 🧠  I'm currently learning Web Development
 
 ### Skills
 
