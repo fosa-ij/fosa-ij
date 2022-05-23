@@ -41,7 +41,7 @@ Software engineer @100Devs, where I work collaboratively on projects. With exper
 					<p>
                         <!--repo --> 
 						<a href='https://github.com/fosa-ij/Portfolio-Project-HAIR-SALOON'>
-							<img src=""/>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
                         <!--live site --> 
 						<a href="https://hairsaloon-pp.netlify.app/">
@@ -97,25 +97,25 @@ Software engineer @100Devs, where I work collaboratively on projects. With exper
 				</div>
 			</td> -->
 			<!--project 4 -->
-			<td width="50%">
+			<td width="100%">
 				<h3 align="center" color="white">Personal Portfolio</h2>
 				<div align="center" > 
-					<a href="https://jacobasper.com/">
-						<img src="https://raw.githubusercontent.com/20jasper/portfolio-site/main/Screenshot%202022-05-12%20at%2017-04-50%20Jacob%20Asper.webp?token=GHSAT0AAAAAABSFZ6QJHLKAZGX7SKKCGZ32YT5O7TQ" alt="A site showing off some projects" />
+					<a href="https://fosaij.netlify.app/">
+						<img src="" alt="A site showing off some projects" heights="350px"/>
 					</a>
 					<br>
 					<br>
 					<p>
                         <!--repo --> 
-						<a href='https://github.com/20jasper/portfolio-site'>
+						<a href='https://github.com/fosa-ij/MY_PORTFOLIO'>
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
                         <!--live site --> 
-						<a href="https://jacobasper.com/">
+						<a href="https://fosaij.netlify.app/">
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
 						</a>	
 					</p>
-					<p><strong>JavaScript, CSS3, HTML5</strong> - Portfolio Site showing off my recent projects</p>
+					<p><strong>JavaScript, CSS3, HTML5</strong> - Portfolio Site showing off my recent projects and contact information</p>
 				</div>
 			</td>
 	</table>
