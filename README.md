@@ -25,13 +25,109 @@ Software engineer @100Devs, where I work collaboratively on projects. With exper
 
 <p align="left"> <a href="https://discord.com/users/fosa_ij#7220" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/fosa-ij" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/fosa-ij" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/fosa_ij" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
+<h2 align="center" color="white">Projects</h2>
+<div align="center">
+	<table>
+		<tr>
+			<!--project 1 -->
+			<td width="50%">
+				<h3 align="center" color="white">BLONDE AND HIGHLIGHT</h2>
+				<div align="center" > 
+					<a href="https://hairsaloon-pp.netlify.app/">
+						<img src="" alt="a commercial hair saloon" height="200px" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href='https://github.com/fosa-ij/Portfolio-Project-HAIR-SALOON'>
+							<img src=""/>
+						</a>  
+                        <!--live site --> 
+						<a href="https://hairsaloon-pp.netlify.app/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						</a>	
+					</p>
+					<p><strong>JavaScript, CSS3, HTML5</strong> - See the current world and total world COVID deaths and cases in real time</p>
+				</div>
+			</td>
+			<!--project 2 -->
+			<td width="50%">
+				<h3 align="center" color="white">CUISINE RESTURANT</h2>
+				<div align="center" > 
+					<a href="https://resturant-pp.netlify.app/">
+						<img src="" alt="a public resturant cuisine" height="200px" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href='https://github.com/fosa-ij/Portfolio-Project--RESTURANT'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+                        <!--live site --> 
+						<a href="https://resturant-pp.netlify.app/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						</a>	
+					</p>
+					<p><strong>JavaScript, CSS3, HTML5</strong> - A 2–player tic-tac-toe game with win and draw validation</p>
+				</div>
+			</td>
+		<tr>
+  <!--project 3 -->
+<!-- 			<td width="50%">
+				<h3 align="center" color="white">SVG Faces</h2>
+				<div align="center" >
+					<a href="https://svg-faces.netlify.app/">
+						<img src="https://user-images.githubusercontent.com/78604367/161706841-2b002c9d-a37a-4dcf-bc0c-863b72d00055.png" alt="a site with a a yellow happy face, a blue sad face, and a red mad face"/>
+					</a>
+					<br>
+					<br>
+					<p> -->
+                        <!--repo --> 
+<!-- 						<a href='https://github.com/20jasper/SVG-faces'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>   -->
+                        <!--live site --> 
+<!-- 						<a href="https://svg-faces.netlify.app/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						</a>	
+					</p>
+					<p><strong>React, D3.js, CSS3, HTML5</strong> - Modular faces built with inline SVG</p>
+				</div>
+			</td> -->
+			<!--project 4 -->
+			<td width="50%">
+				<h3 align="center" color="white">Personal Portfolio</h2>
+				<div align="center" > 
+					<a href="https://jacobasper.com/">
+						<img src="https://raw.githubusercontent.com/20jasper/portfolio-site/main/Screenshot%202022-05-12%20at%2017-04-50%20Jacob%20Asper.webp?token=GHSAT0AAAAAABSFZ6QJHLKAZGX7SKKCGZ32YT5O7TQ" alt="A site showing off some projects" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href='https://github.com/20jasper/portfolio-site'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+                        <!--live site --> 
+						<a href="https://jacobasper.com/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						</a>	
+					</p>
+					<p><strong>JavaScript, CSS3, HTML5</strong> - Portfolio Site showing off my recent projects</p>
+				</div>
+			</td>
+	</table>
+</div>
+
+<!-- ### Badges
 
 <b>My GitHub Stats</b>
 
 <!-- <a href="http://www.github.com/fosa-ij"><img src="https://github-readme-stats.vercel.app/api?username=fosa-ij&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="fosa-ij's GitHub stats" /></a> -->
-
-<a href="http://www.github.com/fosa-ij"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fosa-ij&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<!-- 
+<a href="http://www.github.com/fosa-ij"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fosa-ij&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
 
 <!--
 **fosa-ij/fosa-ij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
