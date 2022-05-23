@@ -97,11 +97,11 @@ Software engineer @100Devs, where I work collaboratively on projects. With exper
 				</div>
 			</td> -->
 			<!--project 4 -->
-			<td width="100%">
+			<td width="50%">
 				<h3 align="center" color="white">Personal Portfolio</h2>
 				<div align="center" > 
 					<a href="https://fosaij.netlify.app/">
-						<img src="" alt="A site showing off some projects" heights="350px"/>
+						<img src="" alt="A site showing off some projects" heights="300px"/>
 					</a>
 					<br>
 					<br>
