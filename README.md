@@ -107,9 +107,9 @@ Software engineer @100Devs, where I work collaboratively on projects. With exper
 					<br>
 					<p>
                         <!--repo --> 
-						<a href='https://github.com/fosa-ij/MY_PORTFOLIO'>
+<!-- 						<a href='https://github.com/fosa-ij/MY_PORTFOLIO'>
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
+						</a>   -->
                         <!--live site --> 
 						<a href="https://fosaij.netlify.app/">
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
