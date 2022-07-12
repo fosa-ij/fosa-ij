@@ -34,7 +34,7 @@
       <h3 align="center">My Portfolio <br> fosaij.netlify.app</h3>
         <br />
         <a target="_blank" href="https://fosaij.netlify.app/">
-<!--             <img src="" width="100%" alt="My portfolio"/> -->
+            <img src="images/portfolio.gif" width="100%" alt="My portfolio"/>
         </a>
         <br />
         <p align="center">
@@ -52,7 +52,7 @@
       <h3 align="center">Restaurant Cuisine</h3>
         <br />
       <a target="_blank" href="https://resturant-pp.netlify.app/">
-<!--             <img src="" width="100%"  alt="Restaurant"/> -->
+            <img src="images/resturant.gif" width="100%"  alt="Restaurant"/> 
         </a>
         <br />
         <p align="center">
@@ -73,7 +73,7 @@
       <h3 align="center">Blonde & Highlight</h3>
       <br />
         <a target="_blank" href="https://hairsaloon-pp.netlify.app/">
-<!--           <img src="" width="100%" alt="hair saloon"/> -->
+          <img src="images/hairsaloon.gif" width="100%" alt="hair saloon"/>
         </a>
       <br />
         <p align="center">
