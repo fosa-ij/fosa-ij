@@ -138,7 +138,7 @@
   <a href="https://discord.com/fosa-ij" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5579c6&logoColor=white&labelColor=&style=flat" height="23" alt="discord logo"  />
   </a>
- <a href="mailto: efosaij@gmail.com" target="_blank">
+ <a href="mailto:efosaij@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=My Email&logo=plane&label=&color=yellow&logoColor=whitesmoke&labelColor=&style=flat" height="23" alt="discord logo"  />
   </a>
 </div>
